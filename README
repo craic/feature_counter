@@ -1,0 +1,18 @@
+README
+
+This is a Sinatra app that fetches and displays an image from a URL supplied by the user
+
+The image is overlaid with a canvas in which the user can click on features to mark and count
+them.
+
+The running total is displayed.
+
+This can be used for manual counting applications such as microbial colony counting,
+satellite image processing, etc.
+
+The code is distributed freely under the terms of the MIT license
+
+Copyright 2012 Robert Jones  jones@craic.com
+
+
+
